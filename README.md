@@ -1,5 +1,5 @@
 
-<img src="https://www.gitkraken.com/wp-content/uploads/2022/05/Squiggle-Landscape-Desktop-noBadge-02.png" heigth="200px">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png" heigth="200px">
 
 <div><h2 align="center">Hi there !👋</h2></div>
 
