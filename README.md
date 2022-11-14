@@ -14,7 +14,7 @@ Contact me:
 
 
 - 📩 : alejandro_meno@hotmail.com
-- 💻 : <a href="www.tecnitium.com" target="_blank">Tecnitium</a>
+- 💻 : <a href="https://www.tecnitium.com" target="_blank">Tecnitium</a>
 
 Languages and Tools:
 
