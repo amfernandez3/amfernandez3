@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there !👋
 
+🧑🏽‍💻 I'm Alejandro Meno, from Ourense (Spain). Interested in learn about tech, focused on web and games.
 
-**amfernandez3/amfernandez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on javaScript + PHP web development
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Interesting tecnologies, I will study it!.
+
+Contact me:
+
+
+- 📩 : alejandro_meno@hotmail.com
+- 💻 : <a href="www.tecnitium.com" target="_blank">Tecnitium</a>
+
+Languages and Tools:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30px" height="30px">
 
