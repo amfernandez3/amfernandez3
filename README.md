@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on javaScript + PHP web development
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on web development / games (unity + c#)
-- 🤔 I’m looking for help with ... nothing atm.
 - 💬 Ask me about Interesting tecnologies, I will study it!.
 
 <h3>Contact me:</h3>
