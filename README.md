@@ -7,8 +7,8 @@
 
 <h3>More about me:</h3>
 
-- 🔭 I’m currently working on javaScript + PHP web development
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on javaScript + PHP web development for a personal project.
+- 🌱 I’m currently learning web development using Java (Spring Boot) + software architectures
 - 👯 I’m looking to collaborate on web development / games (unity + c#)
 - 💬 Ask me about Interesting tecnologies, I will study it!.
 
