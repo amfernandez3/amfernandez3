@@ -24,6 +24,6 @@
 
 <h3>Languages and Tools:</h3>
 
-- 
+- JAVA, JS, C#, C, PHP, SQL, HTML, CSS.
 
 
