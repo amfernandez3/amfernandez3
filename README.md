@@ -26,4 +26,8 @@
 
 - JAVA, JS, C#, C, PHP, SQL, HTML, CSS.
 
+<h3>More info:</h3>
+
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=amfernandez3&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amfernandez3&layout=compact)](https://github.com/anuraghazr/github-readme-stats)
